@@ -1,0 +1,31 @@
+# 🎮 GameZone Retro
+
+## 📋 Sobre o Projeto
+
+O **GameZone Retro** é uma página HTML criada como parte de um mini desafio de desenvolvimento web. O objetivo foi desenvolver uma página simples para uma loja de **games retrô**, utilizando apenas HTML.
+
+## 🎯 Objetivo
+
+Praticar os principais elementos da linguagem HTML, criando uma página organizada, funcional e com no máximo **50 linhas de código**.
+
+## 🛠️ Tecnologias Utilizadas
+
+- HTML5
+- VS Code
+
+## 📌 Elementos Utilizados
+
+- Títulos e parágrafos
+- Texto em **negrito** e *itálico*
+- Lista de consoles retrô
+- Links internos e externos
+- Imagem relacionada a games
+- Tabela de produtos e preços
+
+## 🎮 Conteúdo da Página
+
+A página apresenta a loja **GameZone Retro**, seus consoles clássicos e uma tabela com produtos e preços, além de links para navegação.
+
+## 📚 Conclusão
+
+O projeto ajudou a praticar a estrutura básica do HTML e a utilização de diferentes elementos para criar uma página web simples, funcional e organizada.
